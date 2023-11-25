@@ -1,0 +1,6 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+
+AutomatedMining,blocks,Workstation,,,Wild West Miner,,,,,,,,,,,,,
+AutomatedMiningDesc,blocks,Workstation,,,"The Wild West Miner allows you to mine resources. Requires Advanced Bellows, Anvil, and Crucible for access to all resources. Anvil speeds up mining.",,,,,,,,,,,,,
+AutomatedAmmunition,blocks,Workstation,,,Wild West Ammo Maker,,,,,,,,,,,,,
+AutomatedAmmunitionDesc,blocks,Workstation,,,"The Wild West Ammo Maker allows you to manufacture various kinds of ammunition. Requires Advanced Bellows, Anvil, and Crucible to manufacture all ammo types. Anvil speeds up production.",,,,,,,,,,,,,
